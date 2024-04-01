@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "找医生",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#1890FF",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {}
+}

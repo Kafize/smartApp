@@ -1,0 +1,60 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/index/index",
+    "pages/mine/mine",
+    "pages/logistic/logistic",
+    "pages/pet/pet",
+    "pages/wlDetail/wlDetail",
+    "pages/doctor/doctor",
+    "pages/consult/consult",
+    "pages/consultDetail/consultDetail",
+    "pages/caseDetail/caseDetail",
+    "pages/news/news",
+    "pages/newsDetail/newsDetail",
+    "pages/wayDetail/wayDetail",
+    "pages/complain/complain",
+    "pages/addComplain/addComplain"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "selectedColor": "#1890FF",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "./static/smart/home.png",
+        "selectedIconPath": "./static/smart/home-active.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/news/news",
+        "iconPath": "./static/smart/news.png",
+        "selectedIconPath": "./static/smart/news-active.png",
+        "text": "新闻"
+      },
+      {
+        "pagePath": "pages/logistic/logistic",
+        "iconPath": "./static/smart/sort.png",
+        "selectedIconPath": "./static/smart/sort-active.png",
+        "text": "物流查询"
+      },
+      {
+        "pagePath": "pages/pet/pet",
+        "iconPath": "./static/smart/pet.png",
+        "selectedIconPath": "./static/smart/pet-active.png",
+        "text": "宠物医院"
+      }
+    ]
+  },
+  "usingComponents": {
+    "van-uploader": "./wxcomponents/vant/uploader/index",
+    "van-icon": "/wxcomponents/vant/icon/index",
+    "van-steps": "/wxcomponents/vant/steps/index"
+  }
+}

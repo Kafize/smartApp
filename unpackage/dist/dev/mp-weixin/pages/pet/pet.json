@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "宠物医院",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#1890FF",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {}
+}

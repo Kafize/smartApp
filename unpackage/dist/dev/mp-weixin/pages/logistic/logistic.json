@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "物流查询",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#1890FF",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {}
+}
